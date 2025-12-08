@@ -8,6 +8,7 @@ const Planet = () => {
     <>
       
       <div className="text-center bg-gradient-to-r from-emerald-400 via-emerald-500 to-emerald-600 py-12 shadow-lg rounded-b-3xl">
+        
         <h1 className="text-8xl font-extrabold tracking-wide text-white drop-shadow-xl">
           IONICA
         </h1>

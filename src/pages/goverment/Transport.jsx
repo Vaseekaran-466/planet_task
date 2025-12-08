@@ -7,7 +7,7 @@ const Transport = () => {
 <div class="max-w-4xl mx-auto bg-white p-8 rounded-2xl shadow-xl border border-gray-200">
 
   <h1 class="text-3xl font-extrabold text-center text-red-700 mb-6">
-    Government Transport & Ways Sector of Your Planet
+    Government Transport & Ways Sector of My Planet
   </h1>
 
   <div class="space-y-10 text-center">

@@ -4,7 +4,7 @@ const Education = () => {
 
             <div>
                 <h1 className="text-4xl font-bold mb-2 text-indigo-600">
-                    Education System of Your Planet
+                    Education System of My Planet
                 </h1>
                 <p className="text-lg text-gray-700">
                     Name of the System : <span className="font-semibold">"NEW LEARN GRID"</span>

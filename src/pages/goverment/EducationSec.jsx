@@ -6,7 +6,7 @@ const EducationSec = () => {
       <div className="max-w-4xl mx-auto bg-white p-8 rounded-2xl shadow-xl border border-gray-200">
 
         <h1 className="text-3xl font-extrabold text-center text-blue-700 mb-6">
-          Government Education Sector of Your Planet
+          Government Education Sector of My Planet
         </h1>
 
         <div className="space-y-10">

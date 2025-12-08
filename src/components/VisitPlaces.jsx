@@ -7,7 +7,7 @@ const VisitPlaces = () => {
    <div class="min-h-screen bg-gray-100 p-8 text-center">
 
   <h1 class="text-3xl font-extrabold text-center text-black mb-6">
-    Visiting Places in Your Planet
+    Visiting Places in My Planet
   </h1>
 
   <div class="space-y-10">

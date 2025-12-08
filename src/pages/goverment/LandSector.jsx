@@ -6,7 +6,7 @@ const LandSector = () => {
     <div class="max-w-4xl mx-auto bg-white p-8 rounded-2xl shadow-xl border border-gray-200">
 
   <h1 class="text-3xl font-bold text-blue-700 mb-6 text-center">
-    Land Sector of Your Planet
+    Land Sector of My Planet
   </h1>
 
   <div class="space-y-6">
